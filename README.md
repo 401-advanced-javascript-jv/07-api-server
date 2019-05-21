@@ -1,8 +1,8 @@
-# LAB - 
+# LAB - 07
 
-## Project Name
+## API Server
 
-### Author: Jesse Van Volkinburg
+### Author: Jesse Van Volkinburg and Jagdeep Singh
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
