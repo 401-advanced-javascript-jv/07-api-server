@@ -26,4 +26,4 @@
 * `npm test`
 
 #### UML
-![UML](./assets/server-uml.jpeg)
+![UML](./docs/07-api-server.jpg)
