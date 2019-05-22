@@ -10,12 +10,12 @@
 <!-- * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable) -->
 
-<!-- #### Documentation
+#### Documentation
 * [api docs](http://xyz.com) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments) -->
+* [styleguide](http://xyz.com) (React assignments)
 
-<!-- ### Modules
+### Modules
 #### `modulename.js`
 ##### Exported Values and Methods
 
@@ -23,7 +23,7 @@
 Usage Notes or examples
 
 ###### `bar(array) -> array`
-Usage Notes or examples -->
+Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
