@@ -1,21 +1,21 @@
-# LAB - 
+# LAB - 07
 
-## Project Name
+## API Server
 
-### Author: Jesse Van Volkinburg
+### Author: Jesse Van Volkinburg & Jagdeep Singh
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+<!-- * [back-end](http://xyz.com) (when applicable)
+* [front-end](http://xyz.com) (when applicable) -->
 
-#### Documentation
+<!-- #### Documentation
 * [api docs](http://xyz.com) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [styleguide](http://xyz.com) (React assignments) -->
 
-### Modules
+<!-- ### Modules
 #### `modulename.js`
 ##### Exported Values and Methods
 
@@ -23,24 +23,24 @@
 Usage Notes or examples
 
 ###### `bar(array) -> array`
-Usage Notes or examples
+Usage Notes or examples -->
 
 ### Setup
 #### `.env` requirements
 * `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `nodemon`
+* Endpoint: `/api/v1/categories/`
+  * GET - Returns a JSON object with a list of categories
+  * POST - Adds a new category to the database and returns a JSON object with the new entry's details.
+* Endpoint: `/api/v1/categories/:id`
+  * GET - Returns a JSON object with a specific category's details.
+  * PUT - Updates the category specified by `:id` and returns a JSON object with the updated details.
+  * DELETE - Removes the category specified by `:id`
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* `npm test`
 
 #### UML
 ![UML](./assets/server-uml.jpeg)
