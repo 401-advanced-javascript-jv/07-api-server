@@ -2,11 +2,11 @@
 
 ## API Server
 
-### Author: Jesse Van Volkinburg & Jagdeep Singh
+### Author: Jesse Van Volkinburg and Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-jv/07-api-server/pull/4)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-jv/07-api-server)
 <!-- * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable) -->
 
