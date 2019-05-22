@@ -5,7 +5,7 @@
 ### Author: Jesse Van Volkinburg & Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-jv/07-api-server/pull/3)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-jv/07-api-server)
 
 ### Setup
