@@ -5,25 +5,8 @@
 ### Author: Jesse Van Volkinburg and Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jv/07-api-server/pull/4)
+* [submission PR](https://github.com/401-advanced-javascript-jv/07-api-server/pull/3)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-jv/07-api-server)
-<!-- * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable) -->
-
-<!-- #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments) -->
-
-<!-- ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples -->
 
 ### Setup
 #### `.env` requirements
@@ -43,4 +26,4 @@ Usage Notes or examples -->
 * `npm test`
 
 #### UML
-![UML](./assets/server-uml.jpeg)
+![UML](./docs/07-api-server.jpg)
